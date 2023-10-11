@@ -29,6 +29,7 @@ CREATE TABLE Vol (
 INSERT INTO Pilote VALUES('P1','Wassim','kebili/douz');
 INSERT INTO Pilote VALUES('P2','Asser','jandoba/bousalem');
 INSERT INTO Pilote VALUES('P3','Wajih','tunis/cartage');
+INSERT INTO Pilote VALUES('P4','Hafedh','Nabel/Kelibia');
 
 
 INSERT INTO Avion VALUES(1,'Boeing F16',23);
