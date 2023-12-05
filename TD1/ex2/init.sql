@@ -1,3 +1,4 @@
+
 -- Table: Auteur
 CREATE TABLE Auteur (
     nom VARCHAR2(40) NOT NULL,
